@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lobster&family=Manrope:wght@200&family=Poppins&display=swap');
+.container-1{
+    width: 1340px;
+    height: 620px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.header-section{
+    text-align: center;
+    padding-top: 80px;
+}
+.header-1{
+    color: white;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+
+}
+.header-2{
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    font-size: 22px;
+}
+.button-donate{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 17px solid tomato;
+    border-radius: 7px;
+    background-image: linear-gradient(tomato, tomato);
+}
+.donate-today{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.donate-today-1{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+}
+.donate-today-2{
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+.donate-today-3{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    justify-content: center;
+}
+.taka{
+    min-width: 80px;
+    font-size: 20px;
+    padding: 25px 15px 20px 15px;
+    background-color: gainsboro;
+    border: 3px solid gainsboro;
+    border-radius: 3px;
+}
+.taka-selected{
+    min-width: 80px;
+    font-size: 20px;
+    padding: 25px 15px 20px 15px;
+    background-color: rgb(236, 199, 192);
+    border: 3px solid tomato;
+    border-radius: 3px;
+}
+.input-amount{
+    margin-top: 30px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 640px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.donate-plan{
+        text-align: center;
+        margin-top: 80px;
+        margin-bottom: 50px;
+}
+.donate-plan-1{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+}
+.donate-plan-2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: gray;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.donate-plan-3{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+.food-container{
+    
+}
+.img{
+    width: 50px;
+
+}
+.food-title{
+
+}
+.food-para{
+    
+
+}
+.shelter-container{
+
+}
+.education-container{
+
+}
+
+.footer{
+    background: rgb(13, 13, 20);
+    width: 100%;
+    height: 180px;
+}
+.humble{
+    font-size: 35px;
+    text-align: center;
+    color: tomato;
+    padding-top: 30px;
+    font-family: 'Lobster', cursive;
+}
+.do-it{
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    padding-bottom: 15px;
+}
+.develop{
+    font-size: 11px;
+}
